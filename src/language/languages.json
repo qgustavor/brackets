@@ -145,6 +145,14 @@
         "fileNames": ["Cakefile"]
     },
 
+    "livescript": {
+        "name": "LiveScript",
+        "mode": "livescript",
+        "fileExtensions": ["ls"],
+        "blockComment": ["/*", "*/"],
+        "lineComment": ["#"]
+    },
+
     "clojure": {
         "name": "Clojure",
         "mode": "clojure",
